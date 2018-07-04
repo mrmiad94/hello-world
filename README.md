@@ -2,5 +2,5 @@
 my team start
 
 hi
-my name amir
+my name is amir
 everybody here?
